@@ -76,7 +76,7 @@
     <version.revapi>0.28.1</version.revapi>
     <version.slf4j>2.0.17</version.slf4j>
     <version.testcontainers>1.20.5</version.testcontainers>
-    <version.wiremock>3.12.1</version.wiremock>
+    <version.wiremock>3.0.1</version.wiremock>
     <version.zeebe>8.6.10</version.zeebe>
 
     <!-- plugin version -->
